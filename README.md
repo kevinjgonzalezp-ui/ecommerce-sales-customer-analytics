@@ -2,7 +2,7 @@ objetivo sería:
 
 Analizar el rendimiento comercial de Superstore para identificar los factores que impulsan las ventas y la rentabilidad, prestando especial atención al impacto de los descuentos sobre los resultados del negocio.
 
-Y mis preguntas serían:
+preguntas:
 
 1. ¿Qué categorías generan más ingresos y cuáles son realmente rentables?
 
